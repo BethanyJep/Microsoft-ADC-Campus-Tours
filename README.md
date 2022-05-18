@@ -9,4 +9,17 @@ Agenda
 
 | Time (BST) | Title | Description | Speaker(s) | Resources |
 |---------------|-------|------------|---------|-----------|
-| 10am | Welcome to the Student event | Let's break the ice! | Salman Chishti and Someleze Diko | https://aka.ms/studentambassadors |
+| 10-10:30 | Welcome to the event!| Let's break the ice! | Salman Chishti and Someleze Diko | https://aka.ms/studentambassadors |
+| 10:30-10:40 | Getting Started with Azure for Student |  | Bethany Jepchumba | https://aka.ms/studentambassadors |
+| 10:40-10:50 | Getting Started with Microsoft Learn and free student certifications |  | Gemma Robson | https://aka.ms/certification |
+| 11:00-12:00 |  AI Gaming Challenge | Matching card games using Custom Vision | Stephen Graham | https://aka.ms/studentambassadors |
+| 12:00-12:40 | Lunch & Networking | FOOD |  |  |
+| 12:40-13:10 | Power Platform Low Code No Code Development |  | Bethany Jepchumba | https://aka.ms/studentambassadors |
+| 13:10-13:40 | Career Festive – What roles are in Microsoft for interns and Grads |  | Gianluca Sanfilippo, Ethan Jones, Rosen Georgiev and Aurele Mes Boaye | https://microsoft.com/university |
+| 13:40-14:20 | Introduction to programming hello world in 3 languages| Unsure how to start programming? | Bruno Capuano | https://aka.ms/studentambassadors |
+| 14:20-14:30 | Rock your Profile and Resume Builder with LinkedIn |  | Gianluca Sanfilippo | https://linkedin.com/ |
+| 14:30-14:40 | Microsoft Certifications and the road to a tech job | | Rosen Georgiev | https://aka.ms/certification |
+| 14:40-14:50 | Ambassadors showcase - Standing out from the crowd what the ambassadors badge did for me | | Salman Chishti | https://aka.ms/studentambassadors |
+| 15:00-15:20 |Ambassadors showcase - Ambassadors in the community – how to work with your dev community | Salman Chishti and Susie Yang | | https://insider.windows.com https://aka.ms/studentambassadors |
+
+
