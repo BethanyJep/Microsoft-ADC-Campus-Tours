@@ -9,7 +9,7 @@ Below is the schedule for Microsoft Build Student Developer Drop In Day at the M
 Agenda
 
 | Time (BST) | Title | Description | Speaker(s) | Resources |
-|---------------|-------|------------|---------|-----------|
+|-------------------|-------|------------|---------|-----------|
 | 10 - 10:30 | Welcome to the event!| Let’s connect! Icebreaker. | Salman Chishti and Someleze Diko | https://aka.ms/studentambassadors |
 | 10:30 - 10:40 | Getting Started with Azure for Student | This lightning session will introduce how to activate and get started on using Azure with Azure for Students and the different capabilities + solutions you can build with the services available on Azure for Students. | Bethany Jepchumba | [http://aka.ms/azure4student](http://aka.ms/azure4student) |
 | 10:40 - 10:50 | Getting Started with Microsoft Learn and free student certifications | A quick look at the Microsoft Learn landscape and how students can leverage the content to kickstart their learning journey. | Gemma Robson | [http://aka.ms/studentcertifications](http://aka.ms/studentcertifications) |
