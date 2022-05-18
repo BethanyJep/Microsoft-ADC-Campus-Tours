@@ -1,9 +1,10 @@
 # Microsoft-Build-Student-Developer-Drop-in-day
 
-Here are a bunch of resources from the day!
 
-https://aka.ms/studentcertificate
-https://aka.ms/studentambassadors
+
+
+Below is the schedule for Microsoft Build Student Developer Drop In Day at the Microsoft Reactor in London, hosted by  [Salman Chishti](https://twitter.com/salmanmkc) & [Someleze Diko]()
+
 
 Agenda
 
@@ -19,23 +20,41 @@ Agenda
 | 13:40-14:20 | Introduction to programming hello world in 3 languages| Unsure how to start programming? | Bruno Capuano | https://aka.ms/studentambassadors |
 | 14:20-14:30 | Rock your Profile and Resume Builder with LinkedIn |  | Gianluca Sanfilippo | https://linkedin.com/ |
 | 14:30-14:40 | Microsoft Certifications and the road to a tech job | | Rosen Georgiev | https://aka.ms/certification |
-| 14:40-14:50 | Ambassadors showcase - Standing out from the crowd what the ambassadors badge did for me | | Salman Chishti | https://aka.ms/studentambassadors |
+| 14:40-14:50 | Ambassadors showcase - Standing out from the crowd what the ambassadors badge did for me | | Salman Chishti | https://aka.ms/studentambassadors |
 | 15:00-15:20 | Ambassadors showcase - Ambassadors in the community – how to work with your dev community | | Salman Chishti and Susie Yang  | https://insider.windows.com https://aka.ms/studentambassadors |
-| 15:20-15:50 | Gaming and Azure - Introduction to ID@Azure a new program to help you learn and make successful games using cloud services | | Bruno Capuano  |  |
+| 15:20-15:50 | Gaming and Azure - Introduction to ID@Azure a new program to help you learn and make successful games using cloud services | | Bruno Capuano  |  |
 | 15:50-16:20 | MVP Showcase - Home Automation with the Azure  | | Peter Gallagher  |  |
 | 16:30 - 17:00 | Getting Started with Azure Static Web Apps to Host your Resume | | Bruno Capuano  |  |
 | 17:00 - 18:00 | BUILD AI Gaming Challenge Final | | Stephen Graham, Bruno Capuano and Someleze Diko  |  |
 | 18:00-18:30 | Close and Celebration| CELEBRATING YOU | Salman Chishti and Someleze Diko | https://aka.ms/studentambassadors |
 
 
+#  Resources 
+Copied from [Microsoft Build Intro To Tech SKills](https://github.com/microsoft/AcademicContent/blob/main/microsoft-conferences/2022/README.md))
 
 
+## Microsoft Learn Student Ambassadors
+The [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/) community is for students—like you--who want to use tech to solve real-world problems with like-minded peers, establish themselves as mentors and leaders in their community, and amplify their impact. Student Ambassadors get the opportunity to connect with other students around the world (from 102 countries and counting!), foster their own online communities, get training and earn certifications, and tackle practical challenges, all while building key technical and soft skills to help them succeed. 
+
+## Imagine Cup
+For nearly two decades, students from around the world have participated in Microsoft’s global technology competition, the Imagine Cup, to bring their unique tech solutions to life. But the Imagine Cup is more than just a competition — you can work with friends (and make new ones!), network with professionals, gain new skills, make a difference in the world around you, and get the chance to win cash and cloud credits. Join the over 2 million students who have participated in the [Imagine Cup](https://imaginecup.microsoft.com/)!
+
+## Microsoft Learn for Students
+Learn new concepts at your speed and on your schedule with this curated collection of Microsoft Learn modules created just for students. Start here to develop practical skills through fun, interactive modules and paths. Plus, educators can get access to Microsoft classroom materials and curriculum. Check out all of the Microsoft Learn [paths and resources](http://aka.ms/learnforstudents).
 
 
+## Azure For Students 
+By simply verifying your student status through your school email address, you'll be ready to go on Azure with $100 in credit. Build your skills in trending tech including data science, artificial intelligence (AI), machine learning, and other areas with access to professional developer tools. Learn more about [Azure for Students](https://aka.ms/azureforstudents).
+
+## Learn to Code with Minecraft
+If you have an Office 365 Education account, you can also use that to log in to the full version of [Minecraft: Education Edition](https://education.minecraft.net/) to access hundreds of cool worlds, challenges, and more. Available for Mac, iPad, Windows and Chromebook.
+
+- Explore fun [lessons and challenges](https://education.minecraft.net/class-resources/lessons) in history, art, STEM, social justice, and more
+- Download a [free trial here](https://education.minecraft.net/get-started/)
 
 
+## Learn TV
+[Learn TV](https://docs.microsoft.com/learn/tv) is a 24/7 video channel where you can learn how to build solutions and use Microsoft products from the experts that built them! Learn TV is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft. Let us know what you think with the hashtag LearnTV.
 
-
-
-
-
+# Thank you from Microsoft and community! 
+Thank you for attending the Microsoft Build Student Developer Drop-In Day. We'd love to do this again, any suggestions, create an issue on this repository [with this link](Microsoft-Build-Student-Developer-Drop-in-day/issues/new), excited to see what y'all suggest! Or get in contact with us!
