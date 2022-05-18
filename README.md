@@ -1,6 +1,18 @@
 # Microsoft-Build-Student-Developer-Drop-in-day
 
+Welcome, Guide, Connect!
 
+To celebrate the close of Microsoft Build and Spring exams coming to an end, Reactor London is thrilled to invite students from London and across the UK to Microsoft Build: Student Developer Drop-in Day.
+
+This Open House is a drop-in event - come along to the bits which are most relevant to you!
+
+Meet with fellow students, Microsoft Learn Student Ambassadors, Microsoft Interns, Microsoft MVPs, the Microsoft University Recruiting team but most importantly relax and have fun.
+
+Find out more about what happened at Microsoft Build and discover Microsoft Learn. Meet local data scientists, web devs and cybersecurity engineers for hands-on talks about their recent experience and careers. We’ll introduce you to the Student Ambassador program and Imagine Cup by sharing moments of innovation from the past 20 years. And we’ll talk Microsoft internships.
+
+You’ll also be able to take part in a special AI Gaming Challenge!
+
+This is your chance to celebrate, grab a bite to eat, swag some swag, learn something new and meet someone fresh in the Microsoft community.
 
 
 Below is the schedule for Microsoft Build Student Developer Drop In Day at the Microsoft Reactor in London, hosted by  [Salman Chishti](https://twitter.com/salmanmkc) & [Someleze Diko]()
@@ -30,7 +42,7 @@ Agenda
 
 
 #  Resources 
-Copied from [Microsoft Build Intro To Tech SKills](https://github.com/microsoft/AcademicContent/tree/main/microsoft-conferences/2022/Build))
+Copied from [Microsoft Build Intro To Tech Skills](https://github.com/microsoft/AcademicContent/tree/main/microsoft-conferences/2022/Build)
 
 
 ## Microsoft Learn Student Ambassadors
@@ -58,3 +70,9 @@ If you have an Office 365 Education account, you can also use that to log in to 
 
 # Thank you from Microsoft and community! 
 Thank you for attending the Microsoft Build Student Developer Drop-In Day. We'd love to do this again, any suggestions, create an issue on this repository [with this link](Microsoft-Build-Student-Developer-Drop-in-day/issues/new), excited to see what y'all suggest! Or get in contact with us!
+
+--- 
+
+# COVID-19 safety measures
+Event will be indoors
+The event host is instituting the above safety measures for this event. Meetup is not responsible for ensuring, and will not independently verify, that these precautions are followed.
