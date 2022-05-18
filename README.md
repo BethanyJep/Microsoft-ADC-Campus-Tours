@@ -30,7 +30,7 @@ Agenda
 
 
 #  Resources 
-Copied from [Microsoft Build Intro To Tech SKills](https://github.com/microsoft/AcademicContent/blob/main/microsoft-conferences/2022/README.md))
+Copied from [Microsoft Build Intro To Tech SKills](https://github.com/microsoft/AcademicContent/tree/main/microsoft-conferences/2022/Build))
 
 
 ## Microsoft Learn Student Ambassadors
