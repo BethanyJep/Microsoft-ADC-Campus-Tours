@@ -7,5 +7,6 @@ https://aka.ms/studentambassadors
 
 Agenda
 
-| - | - |- | - |- | - |- |
-| Session Title | Time | Description | Speaker(s) | Description |
+| Time (BST) | Title | Description | Speaker(s) | Resources |
+|---------------|-------|------------|---------|-----------|
+| 10am | Welcome to the Student event | Let's break the ice! | Salman Chishti and Someleze Diko | https://aka.ms/studentambassadors |
