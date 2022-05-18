@@ -20,6 +20,22 @@ Agenda
 | 14:20-14:30 | Rock your Profile and Resume Builder with LinkedIn |  | Gianluca Sanfilippo | https://linkedin.com/ |
 | 14:30-14:40 | Microsoft Certifications and the road to a tech job | | Rosen Georgiev | https://aka.ms/certification |
 | 14:40-14:50 | Ambassadors showcase - Standing out from the crowd what the ambassadors badge did for me | | Salman Chishti | https://aka.ms/studentambassadors |
-| 15:00-15:20 |Ambassadors showcase - Ambassadors in the community – how to work with your dev community | Salman Chishti and Susie Yang | | https://insider.windows.com https://aka.ms/studentambassadors |
+| 15:00-15:20 | Ambassadors showcase - Ambassadors in the community – how to work with your dev community | | Salman Chishti and Susie Yang  | https://insider.windows.com https://aka.ms/studentambassadors |
+| 15:20-15:50 | Gaming and Azure - Introduction to ID@Azure a new program to help you learn and make successful games using cloud services | | Bruno Capuano  |  |
+| 15:50-16:20 | MVP Showcase - Home Automation with the Azure  | | Peter Gallagher  |  |
+| 16:30 - 17:00 | Getting Started with Azure Static Web Apps to Host your Resume | | Bruno Capuano  |  |
+| 17:00 - 18:00 | BUILD AI Gaming Challenge Final | | Stephen Graham, Bruno Capuano and Someleze Diko  |  |
+| 18:00-18:30 | Close and Celebration| CELEBRATING YOU | Salman Chishti and Someleze Diko | https://aka.ms/studentambassadors |
+
+
+
+
+
+
+
+
+
+
+
 
 
