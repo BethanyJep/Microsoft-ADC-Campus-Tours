@@ -1,5 +1,8 @@
 # Microsoft-Build-Student-Developer-Drop-in-day
 
+![Microsoft-Build-Student-Developer-Drop-in-day](https://user-images.githubusercontent.com/32169182/169012617-380a25c2-6db7-41c9-8b01-a4432375a7a8.png)
+
+
 Welcome, Guide, Connect!
 
 To celebrate the close of Microsoft Build and Spring exams coming to an end, Reactor London is thrilled to invite students from London and across the UK to Microsoft Build: Student Developer Drop-in Day.
