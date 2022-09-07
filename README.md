@@ -25,15 +25,18 @@ That’s why we’re so excited to kick off our #ADCCampusVisits, and here you w
 | Fusion Development Hackathon | Microsoft invites you to a #30DaysofFusion experience for you as a developer to put your skills and passion for technology into action and build a product that will be used by thousands across the globe. This program provides you with a gamified, learning experience for fusion developers to compete in building custom connectors for the power platform based on demand and the Top Connector Asks. | [Fusion Development Hackathon](https://techcommunity.microsoft.com/t5/educator-developer-blog/the-microsoft-connector-hackathon-learn-fusion-development-in-30/ba-p/3613726?WT.mc_id=academic-75587-juliamuiruri) |
 | Cloud Skills Challenge| Get a headstart in tech by participating in a 3-month challenge to skill up in different technology areas. | [Cloud Skills Challenge](https://aka.ms/ADCToursChallenge) |
 | Student Summut| Whether you’re building your career or the next great idea, Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Virtual events are running around the clock so join us anytime, anywhere!. | [Student Summit](https://developer.microsoft.com/en-us/reactor/events/17028/?WT.mc_id=academic-75712-bethanycheum) |
+| Educator Developer Blog| A blog for all things education. | [Educator Developer Blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/bg-p/EducatorDeveloperBlog?WT.mc_id=academic-75712-bethanycheum) |
 
 
 #  Resources for Educators
 > **to be updated**
 * Faculty Immersion Program
-* Microsoft Learn for Educators
+* [Microsoft Learn for Educators](https://docs.microsoft.com/en-us/learn/educator-center/programs/msle/?WT.mc_id=academic-75712-bethanycheum)
+* [Begeinner's Curiculums](https://aka.ms/BeginnersCuriculum)
+* [Azure Quantum for Educators](https://azure.microsoft.com/en-us/solutions/quantum-computing/educators/?WT.mc_id=academic-75712-bethanycheum)
 
 
 # Thank you from Microsoft and community! 
-Thank you for attending the Microsoft ADC Campus Tours. We'd love to do this again, any suggestions, create an issue on this repository [with this link](https://CampusToursFeedback), excited to see what y'all suggest!
+Thank you for attending the Microsoft ADC Campus Tours. We'd love to do this again, any suggestions, create an issue on this repository [with this link](https://aka.ms/ADCToursFeedback), excited to see what y'all suggest!
 
 --- 
