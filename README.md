@@ -1,6 +1,6 @@
 # Microsoft ADC Campus Tours
 
-![Microsoft-Build-Student-Developer-Drop-in-day](img/banner.jpg)
+![Microsoft-Build-Student-Developer-Drop-in-day](img/banner2.jfif)
 
 
 Welcome, Guide, Connect!
