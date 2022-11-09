@@ -33,7 +33,7 @@ That’s why we’re so excited to kick off our #ADCCampusVisits, and here you w
 > **to be updated**
 * Faculty Immersion Program
 * [Microsoft Learn for Educators](https://docs.microsoft.com/en-us/learn/educator-center/programs/msle/?WT.mc_id=academic-75712-bethanycheum)
-* [Begeinner's Curiculums](https://aka.ms/BeginnersCuriculum)
+* [Beginner's Curiculums](https://aka.ms/BeginnersCuriculum)
 * [Azure Quantum for Educators](https://azure.microsoft.com/en-us/solutions/quantum-computing/educators/?WT.mc_id=academic-75712-bethanycheum)
 
 
